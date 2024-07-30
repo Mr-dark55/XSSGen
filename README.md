@@ -16,7 +16,7 @@
 pip install pyfiglet
 pip install termcolor
 ```
-
+```sh
 python xssgen.py
 
 Enter the number of payloads you want to generate: 3
