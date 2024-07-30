@@ -33,6 +33,18 @@ Payload 3: <div onmouseover="document.cookie" z="abcdefghij">
 
 
 
+## Section Explanation:
+
+    Title: Displays the tool's name prominently.
+    Description: Describes the tool and its primary function.
+    Features: Lists the key features of the tool.
+    Usage: Explains how to install and run the tool.
+    Example: Provides a practical example of how to use the tool and what to expect.
+    License: Specifies the license type used for the project.
+    Contributing: Invites users to contribute to the project.
+    Disclaimer: Clarifies the legal and ethical use of the tool.
+
+
 
 
 
