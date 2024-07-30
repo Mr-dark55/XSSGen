@@ -11,10 +11,10 @@
 ## Usage
 
 1. **Install the required packages:**
-   ```sh
-   pip install pyfiglet
-   pip install termcolor
- ```
+2. ```sh
+pip install pyfiglet
+pip install termcolor
+```
 
 python xssgen.py
 
