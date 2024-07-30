@@ -11,7 +11,6 @@
 ## Usage
 
 1. **Install the required packages:**
-2.
 
 ```sh
 pip install pyfiglet
