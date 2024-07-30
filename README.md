@@ -30,7 +30,7 @@ Enter the number of payloads you want to generate: 3
 Payload 1: <script onerror="alert('XSS')" a="bcdefghijk">
 Payload 2: <img onload="alert('XSS')" style="color:75px;">
 Payload 3: <div onmouseover="document.cookie" z="abcdefghij">
-
+ ```
 
 
 ## Section Explanation:
